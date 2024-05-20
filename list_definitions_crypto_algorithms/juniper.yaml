@@ -1,6 +1,3 @@
-algorithmId:
-algorithmName: juniper
+algorithmId: juniper
+algorithmName:
 securityStrength: ''
-keywords:
-    - mod_Juniper_Decrypt
-    - juniper_decrypt

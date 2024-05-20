@@ -1,6 +1,3 @@
-algorithmId:
-algorithmName: rijndael
+algorithmId: rijndael
+algorithmName:
 securityStrength: '256'
-keywords:
-    - Rijndael.h
-    - Rijndael256

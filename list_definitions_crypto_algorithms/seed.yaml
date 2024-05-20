@@ -1,6 +1,3 @@
-algorithmId:
-algorithmName: seed
+algorithmId: seed
+algorithmName:
 securityStrength: '256'
-keywords:
-    - seed128Cipher
-    - seed.go

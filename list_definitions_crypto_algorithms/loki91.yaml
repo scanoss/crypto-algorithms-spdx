@@ -1,9 +1,3 @@
-algorithmId:
-algorithmName: loki91
+algorithmId: loki91
+algorithmName:
 securityStrength: '64'
-keywords:
-    - loki.h
-    - loki.i
-    - loki_lib_ver
-    - setlokikey
-    - setlokikey

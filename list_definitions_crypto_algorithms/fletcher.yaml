@@ -1,7 +1,3 @@
-algorithmId:
-algorithmName: fletcher
+algorithmId: fletcher
+algorithmName:
 securityStrength: '64'
-keywords:
-    - fletcher64
-    - fletcher32
-    - fletcher16

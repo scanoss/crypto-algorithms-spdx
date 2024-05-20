@@ -1,7 +1,3 @@
-algorithmId:
-algorithmName: CMAC
+algorithmId: CMAC
+algorithmName:
 securityStrength: '128'
-keywords:
-    - '#include <openssl/cmac.h>'
-    - '.getInstance("AESCMAC");'
-    - 'from Crypto.Hash import CMAC'

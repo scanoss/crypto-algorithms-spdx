@@ -1,9 +1,3 @@
-algorithmId:
-algorithmName: mceliece
+algorithmId: mceliece
+algorithmName:
 securityStrength: '64'
-keywords:
-    - MCELIECE_H
-    - mceliece.h
-    - mceliece_init
-    - delete_mceliece
-    - mceliececipher.py

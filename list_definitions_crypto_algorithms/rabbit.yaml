@@ -1,13 +1,3 @@
-algorithmId:
-algorithmName: rabbit
+algorithmId: rabbit
+algorithmName:
 securityStrength: '128'
-keywords:
-    - Rabbit_Util
-    - Rabbit_ctx
-    - Rabbit_state
-    - Rabbit_Cipher.py
-    - '#include "rabbit.h"'
-    - rabbit_encrypt
-    - 'SecretKeySpec(key, "Rabbit")'
-    - "createCipheriv('Rabbit'"
-    - 'from Crypto.Cipher import Rabbit'

@@ -1,9 +1,3 @@
-algorithmId:
-algorithmName: skein
+algorithmId: skein
+algorithmName:
 securityStrength: '256'
-keywords:
-    - skeincrypto.h
-    - skein
-    - sk_init
-    - sk_encrypt
-    - sk_decrypt

@@ -1,8 +1,3 @@
-algorithmId:
-algorithmName: crc16
+algorithmId: crc16
+algorithmName:
 securityStrength: '16'
-keywords:
-    - CRC_16
-    - CRC_16CCITT
-    - CRC_16XModem
-    - CRC16

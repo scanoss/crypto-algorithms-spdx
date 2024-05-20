@@ -1,7 +1,3 @@
-algorithmId:
-algorithmName: feal
+algorithmId: feal
+algorithmName:
 securityStrength: '64'
-keywords:
-    - lmhashConstant
-    - unKnownLMHashes
-    - createLMHash

@@ -1,8 +1,3 @@
-algorithmId:
-algorithmName: md160
+algorithmId: md160
+algorithmName:
 securityStrength: '64'
-keywords:
-    - ripemd160.h
-    - ripemd160_Init
-    - ripemd160_process
-    - ripemd160_update

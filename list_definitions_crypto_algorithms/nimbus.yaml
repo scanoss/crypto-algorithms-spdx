@@ -1,6 +1,3 @@
-algorithmId:
-algorithmName: nimbus
+algorithmId: nimbus
+algorithmName:
 securityStrength: '256'
-keywords:
-    - nimbusds.jose
-    - 'JOSEObjectType '

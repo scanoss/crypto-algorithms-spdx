@@ -1,9 +1,3 @@
-algorithmId:
-algorithmName: cms
+algorithmId: cms
+algorithmName:
 securityStrength: '64'
-keywords:
-    - '#include <openssl/cms.h>'
-    - CMS_ContentInfo_new
-    - CMS_encrypt
-    - 'import org.bouncycastle.cms.'
-    - CMSEnvelopedDataGenerator

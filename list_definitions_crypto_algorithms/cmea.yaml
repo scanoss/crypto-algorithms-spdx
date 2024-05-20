@@ -1,6 +1,3 @@
-algorithmId:
-algorithmName: cmea
+algorithmId: cmea
+algorithmName:
 securityStrength: '64'
-keywords:
-    - startCMEA
-    - CmeaSys

@@ -1,7 +1,3 @@
-algorithmId:
-algorithmName: rabin
+algorithmId: rabin
+algorithmName:
 securityStrength: '128'
-keywords:
-    - Rabin.genKey
-    - Rabin.encrypt
-    - Rabin.decrypt

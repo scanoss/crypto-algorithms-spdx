@@ -1,5 +1,3 @@
-algorithmId:
-algorithmName: snerfu
+algorithmId: snerfu
+algorithmName:
 securityStrength: '256'
-keywords:
-    - Snefru

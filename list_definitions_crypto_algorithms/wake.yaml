@@ -1,9 +1,3 @@
-algorithmId:
-algorithmName: wake
+algorithmId: wake
+algorithmName:
 securityStrength: '64'
-keywords:
-    - WAKE.h
-    - WAKE_TestInstantiations
-    - WAKE_Base
-    - WAKE_Policy
-    - WAKE_Output

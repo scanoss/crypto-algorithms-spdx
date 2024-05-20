@@ -1,7 +1,3 @@
-algorithmId:
-algorithmName: misty1
+algorithmId: misty1
+algorithmName:
 securityStrength: '32'
-keywords:
-    - misty1_keyinit
-    - misty1_encrypt_block
-    - MISTY1_KEYSIZE

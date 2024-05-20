@@ -1,7 +1,3 @@
-algorithmId:
-algorithmName: tiger
+algorithmId: tiger
+algorithmName:
 securityStrength: '256'
-keywords:
-    - tiger_compress_macro
-    - tiger_compress
-    - ausTigerTokens1

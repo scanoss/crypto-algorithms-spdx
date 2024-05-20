@@ -1,8 +1,3 @@
-algorithmId:
-algorithmName: rc6
+algorithmId: rc6
+algorithmName:
 securityStrength: '128'
-keywords:
-    - AlgorithmRC6
-    - RC6.encrypt
-    - RC6.decript
-    - RC6_HPP__

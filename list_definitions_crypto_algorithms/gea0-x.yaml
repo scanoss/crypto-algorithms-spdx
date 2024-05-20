@@ -1,6 +1,3 @@
-algorithmId:
-algorithmName: gea0-x
+algorithmId: gea0-x
+algorithmName:
 securityStrength: 64-128
-keywords:
-    - LL_GEA
-    - hf_nas_eps_emm_gea

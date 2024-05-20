@@ -1,8 +1,3 @@
-algorithmId:
-algorithmName: hc128
+algorithmId: hc128
+algorithmName:
 securityStrength: '128'
-keywords:
-    - CRYPTOPP_HC128_H
-    - HC-128
-    - HC128Info
-    - Hc128Rng

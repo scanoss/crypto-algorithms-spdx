@@ -1,8 +1,3 @@
-algorithmId:
-algorithmName: shark
+algorithmId: shark
+algorithmName:
 securityStrength: '64'
-keywords:
-    - voipshark
-    - shark.h
-    - SHARKTransform
-    - CRYPTOPP_SHARK_H

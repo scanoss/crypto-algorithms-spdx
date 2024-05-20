@@ -1,11 +1,3 @@
-algorithmId:
-algorithmName: shs
+algorithmId: shs
+algorithmName:
 securityStrength: '128'
-keywords:
-    - secret-handshake
-    - shsInit
-    - shs1
-    - shsInit
-    - SHS_CTX
-    - shsUpdate
-    - shs.h

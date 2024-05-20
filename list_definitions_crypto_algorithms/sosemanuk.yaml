@@ -1,11 +1,3 @@
-algorithmId:
-algorithmName: sosemanuk
+algorithmId: sosemanuk
+algorithmName:
 securityStrength: '128'
-keywords:
-    - SOSEMANUK_H__
-    - sosemanuk_key_context
-    - sosemanuk_schedule
-    - sosemanuk_init
-    - sosemanuk_encrypt
-    - SosemanukSlow
-    - SosemanukFast

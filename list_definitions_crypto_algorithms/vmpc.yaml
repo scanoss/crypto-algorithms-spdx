@@ -1,14 +1,3 @@
-algorithmId:
-algorithmName: vmpc
+algorithmId: vmpc
+algorithmName:
 securityStrength: ''
-keywords:
-    - 'VMPCEngine.java '
-    - VMPCrypt.py
-    - _VMPC_H_
-    - VmpcInitKeyRound
-    - VmpcInitKey
-    - VmpcInitKeyBASIC
-    - VmpcEncrypt
-    - VmpcEncryptMAC
-    - VmpcDecryptMAC
-    - VmpcOutputMAC

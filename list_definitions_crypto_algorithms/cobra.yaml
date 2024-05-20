@@ -1,6 +1,3 @@
-algorithmId:
-algorithmName: cobra
+algorithmId: cobra
+algorithmName:
 securityStrength: '128'
-keywords:
-    - Cobra_algorithm
-    - cobra.java

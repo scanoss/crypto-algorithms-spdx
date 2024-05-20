@@ -1,6 +1,3 @@
-algorithmId:
-algorithmName: zipcrypt
+algorithmId: zipcrypt
+algorithmName:
 securityStrength: '64'
-keywords:
-    - zipcloak
-    - zipbare

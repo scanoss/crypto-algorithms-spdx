@@ -1,5 +1,3 @@
-algorithmId:
-algorithmName: dcc
+algorithmId: dcc
+algorithmName:
 securityStrength: '64'
-keywords:
-    - DCC.py

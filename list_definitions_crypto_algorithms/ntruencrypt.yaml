@@ -1,12 +1,3 @@
-algorithmId:
-algorithmName: ntruencrypt
+algorithmId: ntruencrypt
+algorithmName:
 securityStrength: '128'
-keywords:
-    - NTRU_NTRU_H
-    - ntru.h
-    - ntruprime_gen_key_pair
-    - ntru_gen_key_pair_multi
-    - ntru_gen_pub
-    - ntru_encrypt
-    - ntru_decrypt
-    - net.sf.ntru.util

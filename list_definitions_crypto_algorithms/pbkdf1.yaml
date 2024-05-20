@@ -1,5 +1,3 @@
-algorithmId:
-algorithmName: pbkdf1
+algorithmId: pbkdf1
+algorithmName:
 securityStrength: '128'
-keywords:
-    - pbkdf1.js

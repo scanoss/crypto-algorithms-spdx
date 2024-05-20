@@ -1,6 +1,3 @@
-algorithmId:
-algorithmName: 3way
+algorithmId: 3way
+algorithmName:
 securityStrength: '128'
-keywords:
-    - 3way.h
-    - CRYPTOPP_THREEWAY_H

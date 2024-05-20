@@ -1,11 +1,3 @@
-algorithmId:
-algorithmName: haval
+algorithmId: haval
+algorithmName:
 securityStrength: '128'
-keywords:
-    - haval.h
-    - haval_context
-    - Haval-160
-    - Haval-192
-    - Haval-224
-    - Haval-256
-    - Haval-128

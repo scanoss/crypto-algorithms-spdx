@@ -1,6 +1,3 @@
-algorithmId:
-algorithmName: mscash
+algorithmId: mscash
+algorithmName:
 securityStrength: '256'
-keywords:
-    - mscash.x.gz
-    - mscash
