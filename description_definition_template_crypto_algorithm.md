@@ -1,6 +1,6 @@
 <!--
-SPDX-FileCopyrightText: 2024 2024 SCAN Open Source Software SL (scanoss.com)
-SPDX-FileContributor: [Author Name(s)] <[Optional: Email Address(es)]>
+SPDX-FileCopyrightText: 2024 SCAN Open Source Software SL (scanoss.com)
+SPDX-FileContributor: Agustin Benito Bethencourt <agustin.benito@scanoss.com> <contact@toscalix.com>
 
 SPDX-License-Identifier: CC0-1.0
 -->
@@ -34,7 +34,7 @@ This second part is structured in 3 sections
 #### algorithmId
 
 * Description: univocal identifier for every cryptographic algorithm. This project provides an identifier per algorithm.
-* Values: check the identifiers_algorithmId.yaml file, which includes the list of approved cryptography identifiers.
+* Values: check the definitions_index_crypto_algorithms.md file, which includes the list of cryptography identifiers.
 
 #### securityStrength
 
@@ -51,7 +51,7 @@ This second part is structured in 3 sections
 * Description: name provided by the author of the algorithm, widely accepted or the corresponding standardization body and its acronym
 * Values: <Acronym>-<Name> where:
     * <Acronym> correspond to the commonly used acronym for the cryptographic algorithm
-    * <Name> corresponds full name of the cryptopgraphic algorithm
+    * <Name> corresponds full name of the cryptographic algorithm
 
 ### section 2: algorithm implementations
 
@@ -65,8 +65,8 @@ This second part is structured in 3 sections
 * Description: version of the software package that implements the cryptographic algorithm (library)
 * Values: <MM.mm.x> where MM, mm and x are integers corresponding to:
     * MM: major version
-    * mm: mior version
-    * x: patchset
+    * mm: minor version
+    * x: patch set
 
 Values format might vary depending on the software package
 
